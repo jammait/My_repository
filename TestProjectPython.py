@@ -7,5 +7,5 @@ np_array = np.array(my_list)
 print(np_array)
 
 
-
+np.arange 
 
